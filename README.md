@@ -14,9 +14,8 @@
 
 
 ## Getting it's running
->
-make build # build application
-make start # run application in release mode (production)
-make dev # run application in development mode
+> make build # build application
+> make start # run application in release mode (production)
+> make dev # run application in development mode
 
 > http://localhost/
