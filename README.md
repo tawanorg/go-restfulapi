@@ -2,6 +2,10 @@
 
 > My first Go project for implementing standalone Restful API with Go-lang
 
+## Stack
+- Go-lang (https://golang.org/doc/install)
+- Gin Web Framework (https://github.com/gin-gonic/gin)
+
 ## What it contains?
 
 ```
