@@ -1,6 +1,6 @@
 # go-restfulapi
 
-> Standalone Restful API with Go-lang
+> My first Go project for implementing standalone Restful API with Go-lang
 
 ## What it contains?
 
@@ -11,3 +11,12 @@
    ├── routes.go
    └── types.go
 ```
+
+
+## Getting it's running
+>
+make build # build application
+make start # run application in release mode (production)
+make dev # run application in development mode
+
+> http://localhost/
