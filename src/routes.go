@@ -6,6 +6,10 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+type Response struct {
+	Message string `json:"message"`
+}
+
 // Method GET
 // Resouce http://host:port
 func indexController(c *gin.Context) {
